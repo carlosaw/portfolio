@@ -1,4 +1,4 @@
-# https://www.youtube.com/watch?v=hQjlM-8C4Ps
+# Https://www.youtube.com/watch?v=hqjlm-8c4ps
 ## minuto 22:50
 # Getting Started with Create React App
 
