@@ -25,3 +25,16 @@
   flex-wrap: wrap;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 480px) {
+  .pl {
+    margin-top: 70px;
+    padding: 55px 22px;
+  }
+  .pl-title {
+    font-size: 32px;
+  }
+  .pl-list {
+    justify-content: space-around;
+  }
+}

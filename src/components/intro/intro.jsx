@@ -6,15 +6,15 @@ const Intro = () => {
     <div className="i">
       <div className="i-left">
         <div className="i-left-wrapper">
-          <h2 className="i-intro">hello, My Name Is</h2>
+          <h2 className="i-intro">Hello, My name is</h2>
           <h1 className="i-name">Carlos Alberto</h1>
           <div className="i-title">
-            <div className="i-title-wrapper">
+            <div className="i-title-wrapper">           
               <div className="i-title-item">Web Developer</div>
               <div className="i-title-item">UI/UX Designer</div>
               <div className="i-title-item">Front-end</div>
               <div className="i-title-item">Back-end</div>
-              <div className="i-title-item">Full-Stack</div>
+              <div className="i-title-item">Full-Stack</div>              
             </div>
           </div>
           <p className="i-desc">

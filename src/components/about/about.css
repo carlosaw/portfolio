@@ -45,7 +45,7 @@
   border-radius: 20px;
 }
 
-.atitle- {
+.a-title {
   font-weight: 400;
 }
 
@@ -72,4 +72,36 @@
   font-weight: bold;
   color: #555;
   margin-bottom: 10px;
+}
+
+@media screen and (max-width: 480px) {
+  .a {
+    flex-direction: column;
+    text-align: center;
+    margin-top: 0px;
+  }
+  .a-left {
+    width: 100%;   
+    margin-bottom: 20px;
+  }
+  .a-card {
+    height: 30vh;
+  }
+  .a-card.bg {
+    display: none;
+  }
+  .a-sub {
+    margin: 10px 10px;
+  }
+  .a-desc {
+    padding: 10px;
+  }
+  .a-award {
+    flex-direction: column;
+    margin-top: 15px;
+  }
+  .a-award-texts {
+    width: 100%;
+    margin: 10px;
+  }
 }
