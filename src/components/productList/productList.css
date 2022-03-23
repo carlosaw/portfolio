@@ -26,7 +26,17 @@
   justify-content: space-between;
 }
 
-@media Screen And (max-width: 480px) {
+@media (min-width:320px) and (max-width: 360px) {
+  .pl {
+    margin-top: 100px;
+    padding: 57px 13px;
+  }
+  .pl-list {
+    justify-content: space-around;
+  }
+}
+
+@media (min-width:361px) and (max-width: 480px) {
   .pl {
     margin-top: 200px;
     padding: 55px 22px;
@@ -36,5 +46,8 @@
   }
   .pl-list {
     justify-content: space-around;
+  }
+  .pl-texts {
+    margin-top: 50px;
   }
 }

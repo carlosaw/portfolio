@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 1,
-    img: "https://pbs.twimg.com/media/EKdH0WYXUAAlSgf.png",
+    img: "C:\projetosNodeJS\portfolio\src\img\nova-loja.png",
     link: "http://lama.dev",
   },
   {

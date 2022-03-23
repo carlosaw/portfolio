@@ -33,7 +33,7 @@ const Contact = () => {
   return (
     <div className="c">
       <div className="c-bg"></div>
-      <div className="c-wrapper" style={{backgroundColor: darkMode && "#333"}}>
+      <div className="c-wrapper" style={{backgroundColor: darkMode && "rgb(34 , 34, 34"}}>
         <div className="c-left">
           <h1 className="c-title">Let`s discuss your project</h1>
             <div className="c-info">
