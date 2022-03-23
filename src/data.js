@@ -1,12 +1,12 @@
 export const products = [
   {
     id: 1,
-    img: "C:\projetosNodeJS\portfolio\src\img\nova-loja.png",
-    link: "http://lama.dev",
+    img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/aw.png",
+    link: "https://awregulagens.com.br",
   },
   {
     id: 2,
-    img: "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png",
+    img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/nova-loja.png",
     link: "http://lama.dev",
   },
   {
