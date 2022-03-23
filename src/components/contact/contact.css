@@ -46,11 +46,6 @@
   margin-right: 20px;
 }
 
-.c-desc {
-  font-weight: 200;
-  color: #000;
-}
-
 form {
   margin-top: 20px;
 }
@@ -86,6 +81,7 @@ button {
 @media screen and (max-width: 480px) {
   .c-wrapper {
     flex-direction: column;
+    padding: 32px;
   }
   .c-desc {
     font-weight: 200;
@@ -95,7 +91,13 @@ button {
     width: 100%;
   }
   .c-title {
-    font-size: 37px;
+    font-size: 18px;
     text-align: end;
+  }
+  .c-right {
+    margin-top: -30px;
+  }
+  .c-bg {
+    height: 54%;
   }
 }

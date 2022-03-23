@@ -33,7 +33,7 @@ const Contact = () => {
   return (
     <div className="c">
       <div className="c-bg"></div>
-      <div className="c-wrapper">
+      <div className="c-wrapper" style={{backgroundColor: darkMode && "#333"}}>
         <div className="c-left">
           <h1 className="c-title">Let`s discuss your project</h1>
             <div className="c-info">
@@ -63,8 +63,9 @@ const Contact = () => {
               </div>
             </div>
         </div>
+        
         <div className="c-right">
-          <p className="c-desc" style={{backgroundColor: darkMode && "#222", color: "#FFF"}}>
+          <p className="c-desc">
             <b>What’s your story?</b> Get in touch. Always available for
             freelancing if the right project comes along. me.
           </p>

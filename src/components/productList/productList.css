@@ -26,9 +26,9 @@
   justify-content: space-between;
 }
 
-@media screen and (max-width: 480px) {
+@media Screen And (max-width: 480px) {
   .pl {
-    margin-top: 70px;
+    margin-top: 200px;
     padding: 55px 22px;
   }
   .pl-title {
