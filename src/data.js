@@ -16,8 +16,8 @@ export const products = [
   },
   {
     id: 4,
-    img: "http://portalwebdesigner.com/wp-content/uploads/2016/06/O-que-%C3%A9-JavaScript.png",
-    link: "http://lama.dev",
+    img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/pizza.png",
+    link: "https://carlosaw.github.io/pizza/",
   },
   {
     id: 5,
