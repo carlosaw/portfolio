@@ -7,12 +7,12 @@ export const products = [
   {
     id: 2,
     img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/nova-loja.png",
-    link: "http://lama.dev",
+    link: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/contaazul.png",
   },
   {
     id: 3,
-    img: "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png",
-    link: "http://lama.dev",
+    img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/contaazul.png",
+    link: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/contaazul.png",
   },
   {
     id: 4,
