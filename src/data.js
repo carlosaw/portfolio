@@ -26,7 +26,7 @@ export const products = [
   },
   {
     id: 6,
-    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/800px-Node.js_logo.svg.png",
-    link: "http://lama.dev",
+    img: "https://raw.githubusercontent.com/carlosaw/netflixclone/master/netflixclone.png",
+    link: "http://awregulagens.com.br/netflixclone/",
   },
 ];
