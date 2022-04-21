@@ -7,12 +7,12 @@ export const products = [
   {
     id: 2,
     img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/nova-loja.png",
-    link: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/contaazul.png",
+    link: "http://awregulagens.com.br/nova_loja",
   },
   {
     id: 3,
     img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/contaazul.png",
-    link: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/contaazul.png",
+    link: "http://awregulagens.com.br/contaazul",
   },
   {
     id: 4,
@@ -21,8 +21,8 @@ export const products = [
   },
   {
     id: 5,
-    img: "https://conectesite.com.br/wp-content/uploads/2020/02/website_site_campinas_mysql.png",
-    link: "http://lama.dev",
+    img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/canil.png",
+    link: "https://app-canil.herokuapp.com/",
   },
   {
     id: 6,
