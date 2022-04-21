@@ -1,11 +1,3 @@
-# Heroku (awregulagem@gmail.com 'N1e2c3a4heroku$')
-## https://app-canil.herokuapp.com/
-# https://www.youtube.com/watch?v=hqjlm-8c4ps
-## minuto 22:50
-
-# git
-## https://github.com/safak/youtube/tree/react-portfolio-website
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
