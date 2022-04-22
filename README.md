@@ -1,3 +1,5 @@
+# Personal mode
+## Person portfolio
 # Dependencies
 ## npm install
 
