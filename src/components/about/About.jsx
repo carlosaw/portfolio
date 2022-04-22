@@ -15,16 +15,12 @@ const About = () => {
         </div>
       </div>
       <div className="a-right">
-        <h1 className="a-title">About Me</h1>
+        <h1 className="a-title">Sobre mim</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+        Sou apaixonado pelo mundo das artes e do digital. Procuro inspiração nos meus clientes e no mundo que me rodeia. Fiquem à vontade para conhecer um pouco da minha trajetória profissional.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+        Desenvolvimento de layouts gráficos para websites / Desenvolvimento frontend (HTML 5, CSS3, jQuery) / Domínio da framework Bootstrap / Desenvolvimento de websites utilizando o CMS WordPress (lojas online, sites institucionais).
         </p>
         <div className="a-award">
           <img src={Award} alt="" className="a-award-img" />
