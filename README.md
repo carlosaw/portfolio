@@ -1,7 +1,7 @@
 # Personal mode
 ## Person portfolio
 # Dependencies
-## npm install
+## yarn install
 
 #Site
 ## https://carlosaw.github.io/portfolio
