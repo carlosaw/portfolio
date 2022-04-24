@@ -35,7 +35,7 @@ const Contact = () => {
       <div className="c-bg"></div>
       <div className="c-wrapper" style={{backgroundColor: darkMode && "rgb(34 , 34, 34"}}>
         <div className="c-left">
-          <h1 className="c-title">Let`s discuss your project</h1>
+          <h1 className="c-title">Vamos discutir seu projeto.</h1>
             <div className="c-info">
               <div className="c-info-item">
                 <img
@@ -66,15 +66,15 @@ const Contact = () => {
         
         <div className="c-right">
           <p className="c-desc">
-            <b>What’s your story?</b> Get in touch. Always available for
-            freelancing if the right project comes along. me.
+            <b>Qual é a sua história?</b> Entre em contato. Sempre disponível para
+            freelancer se o projeto certo aparecer.
           </p>
           <form ref={formRef} onSubmit={handleSubmit}>
-            <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Name" name="user_name" />
-            <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Subject" name="user_subject" />
+            <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Nome" name="user_name" />
+            <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Assunto" name="user_subject" />
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
-            <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Message" name="message" />
-            <button>Submit</button>
+            <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Menssagem" name="message" />
+            <button>Enviar</button>
             {done && "Thank you..."}
           </form>
         </div>

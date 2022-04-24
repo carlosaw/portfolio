@@ -27,8 +27,7 @@ const About = () => {
           <div className="a-award-texts">
             <h4 className="a-award-title">International Design Awards 2021</h4>
             <p className="a-award-desc">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
+            O International Design Awards é um grupo de prêmios que reconhece, celebra e promove visionários do design e talentos emergentes em arquitetura, interiores, produtos, design gráfico e moda.
             </p>
           </div>
         </div>

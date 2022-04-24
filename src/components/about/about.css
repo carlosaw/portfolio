@@ -41,8 +41,7 @@
 
 .a-award-img {
   width: 200px;
-  height: 120px;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .a-title {
@@ -65,7 +64,7 @@
 }
 
 .a-award-texts {
-  width: 70%;
+  width: 60%;
 }
 
 .a-award-title {
