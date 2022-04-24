@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 # Dependencies
 ## yarn install
+=======
+# Personal mode
+## Person portfolio
+# Dependencies
+## yarn install
+
+#Site
+## https://carlosaw.github.io/portfolio
+>>>>>>> bbb4ceb03d5107686a7d3963db43a8061734e3aa
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

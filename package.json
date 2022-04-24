@@ -2,7 +2,7 @@
   "name": "new",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carlosaw.github.io/portfolio/",
+  "gh-pages": "https://carlosaw.github.io/portfolio/",
   "dependencies": {
     "@emailjs/browser": "^3.4.0",
     "@testing-library/jest-dom": "^5.11.4",
