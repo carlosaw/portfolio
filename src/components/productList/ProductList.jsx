@@ -6,7 +6,7 @@ const ProductList = () => {
   return (
     <div className="pl">
       <div className="pl-texts">
-        <h1 className="pl-title">Criação & inspiração. It's Carlos</h1>
+        <h1 className="pl-title">Criação & inspiração.</h1>
         <p className="pl-desc">
         Com nossa ampla gama de serviços, nos esforçamos para criar um trabalho com carga cultural que seja emocionalmente ressonante e orientado a resultados.
         </p>
