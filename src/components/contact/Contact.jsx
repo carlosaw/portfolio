@@ -73,7 +73,7 @@ const Contact = () => {
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Nome" name="user_name" />
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Assunto" name="user_subject" />
             <input style={{backgroundColor: darkMode && "#333"}} type="text" placeholder="Email" name="user_email" />
-            <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Menssagem" name="message" />
+            <textarea style={{backgroundColor: darkMode && "#333"}} rows="5" placeholder="Mensagem" name="message" />
             <button>Enviar</button>
             {done && "Thank you..."}
           </form>
