@@ -59,7 +59,7 @@ const Contact = () => {
                   alt=""
                   className="c-icon"
                 />
-                Street Mem de Sá, 61, Várzea Grande, Mato Grosso, Brazil
+                Rua Mem de Sá, 61, Várzea Grande, Mato Grosso, Brazil
               </div>
             </div>
         </div>
