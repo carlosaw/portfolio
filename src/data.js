@@ -21,8 +21,8 @@ export const products = [
   },
   {
     id: 5,
-    img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/canil.png",
-    link: "https://app-canil.herokuapp.com/",
+    img: "https://raw.githubusercontent.com/carlosaw/portfolio/master/src/img/awBlack.png",
+    link: "https://next-js-aw.vercel.app/",
   },
   {
     id: 6,
