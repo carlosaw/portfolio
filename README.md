@@ -6,8 +6,7 @@
 # Dependencies
 ## yarn install
 
-# Site
-## https://carlosaw.github.io/portfolio
+
 >>>>>>> bbb4ceb03d5107686a7d3963db43a8061734e3aa
 # Getting Started with Create React App
 
