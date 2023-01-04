@@ -3,15 +3,6 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import { ThemeProvider } from './context';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <ThemeProvider>
-      <App />
-    </ThemeProvider>    
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-
 // Add Express
 const express = require("express");
 
@@ -24,9 +15,18 @@ app.get("/", (req, res) => {
 });
 
 // Initialize server
-app.listen(5000, () => {
-  console.log("Running on port 5000.");
+app.listen(3000, () => {
+  console.log("Running on port 3000.");
 });
 
 // Export the Express API
 module.exports = app;
+
+ReactDOM.render(
+  <React.StrictMode>
+    <ThemeProvider>
+      <App />
+    </ThemeProvider>    
+  </React.StrictMode>,
+  document.getElementById('root')
+);
