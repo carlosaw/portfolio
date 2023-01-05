@@ -17,8 +17,8 @@ route.get('/', (req, res) => {
 });
 app.use(route);
 
-app.listen(4000, () => {
-  console.log("Server running in " + 4000)
+app.listen(3000, () => {
+  console.log("Server running in " + 3000)
 })
 
 ReactDOM.render(
