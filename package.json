@@ -2,10 +2,11 @@
   "name": "new",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "api/index.js",
   "engines": {
     "node": "16.x"
   },
+  "type": "module",
   "private": true,
   "homepage": "https://carlosaw.github.io/portfolio/",
   "dependencies": {
@@ -16,10 +17,11 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "vercel": "^28.10.2",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "node index.js",
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "eslintConfig": {
